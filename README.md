@@ -32,7 +32,9 @@ When double clicked the color name is shown in a rectangle box on the left upper
 Files included
 
 color.py : the python script
+
 colors.csv: a data set that conatins RGB values with their corresponding names 
+
 sam.png : the sample image 
 
 The datasource is the color dataset and if we were to use a diffrent image we would only need to change the image name and format. if the image is not in the same folder as the others we need to write the full path of the image when running the code 
