@@ -7,13 +7,16 @@ In this project, we build an application through which you get the name of the c
 
 Libraries required
 Pandas
+
 numpy
+
 opencv
+
 argparse
 
 step 1
 To take an image from user we have to create an argument parser to take image path then we can direcly give an image path from the command prompt
-read the csv file and load it into pandas dataframe
+Then read the csv file and load it into pandas dataframe
 
 step 2
 Create the draw function which calculate the rgb values of the pixeles in the image when we double clicked
