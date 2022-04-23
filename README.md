@@ -39,7 +39,7 @@ colors.csv: a data set that conatins RGB values with their corresponding names
 
 sam.png : the sample image 
 
-The datasource is the color dataset and if we were to use a diffrent image we would only need to change the image name and format. if the image is not in the same location as the others we need to specify the full path of the image when running the code 
+The datasource is the color dataset and if we were to use a different image we would only need to change the image name and format. if the image is not in the same location as the others we need to specify the full path of the image when running the code 
 
 citation
 
