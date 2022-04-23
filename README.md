@@ -17,7 +17,7 @@ argparse
 
 step 1
 
-To take image from user we have to create an argument parser to take image path then we can direcly give the image path in the command prompt
+To take image from user we have to create an argument parser to take image path so that we can direcly give the image path in the command prompt
 Then read the csv file and load it into pandas dataframe
 
 step 2
@@ -27,7 +27,7 @@ Then, the distance is calculated by formula to get the corresponding color name
 
 step 3
 
-When double clicked the color name is shown in a rectangle box to the left upper corner of the window, we use cv2.imshow(), cv2.rectangle(), cv2.puttext() functions to achieve the result
+When double clicked the color name is shown in a rectangle box on the left upper corner of the window, we use cv2.imshow(), cv2.rectangle(), cv2.puttext() functions to achieve the result
 
 Files included
 
@@ -35,7 +35,7 @@ color.py : the python script
 colors.csv: a data set that conatins RGB values with their corresponding names 
 sam.png : the sample image 
 
-The datasource is the color dataset and if we were to use a diffrent image we would only need to change the image name. if the image is not in the same folder as the othesrs we need to write the full path of the image when running the code 
+The datasource is the color dataset and if we were to use a diffrent image we would only need to change the image name and format. if the image is not in the same folder as the others we need to write the full path of the image when running the code 
 
 citation
 
