@@ -6,6 +6,7 @@ The process of detecting the name of any color in an image is known as color det
 In this project, we build an application through which you get the name of the color by double clicking on the picture you provided
 
 Libraries required
+
 Pandas
 
 numpy
