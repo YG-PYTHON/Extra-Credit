@@ -43,4 +43,4 @@ The datasource is the color dataset and if we were to use a different image we w
 
 citation
 
-https://www.askpython.com/python/examples/color-detection
+“Color Detection Using Python - Beginner's Reference.” AskPython, 28 June 2021, https://www.askpython.com/python/examples/color-detection. 
